@@ -1,0 +1,14 @@
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.AssemblyInfoInputs.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.AssemblyInfo.cs
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.csproj.CoreCompileInputs.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\bin\Debug\net7.0\2_One_to_Ten.exe
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\bin\Debug\net7.0\2_One_to_Ten.deps.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\bin\Debug\net7.0\2_One_to_Ten.runtimeconfig.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\bin\Debug\net7.0\2_One_to_Ten.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\bin\Debug\net7.0\2_One_to_Ten.pdb
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\refint\2_One_to_Ten.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.pdb
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\2_One_to_Ten.genruntimeconfig.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\2_One_to_Ten\obj\Debug\net7.0\ref\2_One_to_Ten.dll
