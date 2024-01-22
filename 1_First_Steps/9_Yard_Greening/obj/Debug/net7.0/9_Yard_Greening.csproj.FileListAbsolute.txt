@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\bin\Debug\net7.0\9_Yard_Greening.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\bin\Debug\net7.0\9_Yard_Greening.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\bin\Debug\net7.0\9_Yard_Greening.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\bin\Debug\net7.0\9_Yard_Greening.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\bin\Debug\net7.0\9_Yard_Greening.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\refint\9_Yard_Greening.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\9_Yard_Greening.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\9_Yard_Greening\obj\Debug\net7.0\ref\9_Yard_Greening.dll

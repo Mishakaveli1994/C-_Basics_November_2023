@@ -1,0 +1,15 @@
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\bin\Debug\net7.0\4_Inches_to_Centimeters.exe
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\bin\Debug\net7.0\4_Inches_to_Centimeters.deps.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\bin\Debug\net7.0\4_Inches_to_Centimeters.runtimeconfig.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\bin\Debug\net7.0\4_Inches_to_Centimeters.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\bin\Debug\net7.0\4_Inches_to_Centimeters.pdb
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.AssemblyInfoInputs.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.AssemblyInfo.cs
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.csproj.CoreCompileInputs.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.sourcelink.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\refint\4_Inches_to_Centimeters.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.pdb
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\4_Inches_to_Centimeters.genruntimeconfig.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\4_Inches_to_Centimeters\obj\Debug\net7.0\ref\4_Inches_to_Centimeters.dll

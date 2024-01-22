@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\1_First_Steps\\2_One_to_Ten\\2_One_to_Ten.csproj",
+      "projectUniqueName": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\1_First_Steps\\2_Nums_1_10\\2_One_to_Ten.csproj",
       "projectName": "2_One_to_Ten",
-      "projectPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\1_First_Steps\\2_One_to_Ten\\2_One_to_Ten.csproj",
+      "projectPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\1_First_Steps\\2_Nums_1_10\\2_One_to_Ten.csproj",
       "packagesPath": "C:\\Users\\Mishakaveli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\1_First_Steps\\2_One_to_Ten\\obj\\",
+      "outputPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\1_First_Steps\\2_Nums_1_10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Mishakaveli\\AppData\\Roaming\\NuGet\\NuGet.Config"

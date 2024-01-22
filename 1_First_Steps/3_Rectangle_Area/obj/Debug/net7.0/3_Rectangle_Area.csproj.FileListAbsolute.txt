@@ -1,0 +1,15 @@
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\bin\Debug\net7.0\3_Rectangle_Area.exe
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\bin\Debug\net7.0\3_Rectangle_Area.deps.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\bin\Debug\net7.0\3_Rectangle_Area.runtimeconfig.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\bin\Debug\net7.0\3_Rectangle_Area.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\bin\Debug\net7.0\3_Rectangle_Area.pdb
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.AssemblyInfoInputs.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.AssemblyInfo.cs
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.csproj.CoreCompileInputs.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.sourcelink.json
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\refint\3_Rectangle_Area.dll
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.pdb
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\3_Rectangle_Area.genruntimeconfig.cache
+c:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\1_First_Steps\3_Rectangle_Area\obj\Debug\net7.0\ref\3_Rectangle_Area.dll
