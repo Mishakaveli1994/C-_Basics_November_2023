@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\bin\Debug\net7.0\6_Repainting.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\bin\Debug\net7.0\6_Repainting.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\bin\Debug\net7.0\6_Repainting.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\bin\Debug\net7.0\6_Repainting.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\bin\Debug\net7.0\6_Repainting.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\refint\6_Repainting.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\6_Repainting.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\6_Repainting\obj\Debug\net7.0\ref\6_Repainting.dll

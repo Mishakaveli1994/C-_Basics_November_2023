@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\bin\Debug\net7.0\3_Deposit_Calculator.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\bin\Debug\net7.0\3_Deposit_Calculator.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\bin\Debug\net7.0\3_Deposit_Calculator.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\bin\Debug\net7.0\3_Deposit_Calculator.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\bin\Debug\net7.0\3_Deposit_Calculator.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\refint\3_Deposit_Calculator.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\3_Deposit_Calculator.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\3_Deposit_Calculator\obj\Debug\net7.0\ref\3_Deposit_Calculator.dll

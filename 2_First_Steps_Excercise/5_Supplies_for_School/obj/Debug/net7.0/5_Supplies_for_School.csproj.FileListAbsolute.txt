@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\bin\Debug\net7.0\5_Supplies_for_School.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\bin\Debug\net7.0\5_Supplies_for_School.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\bin\Debug\net7.0\5_Supplies_for_School.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\bin\Debug\net7.0\5_Supplies_for_School.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\bin\Debug\net7.0\5_Supplies_for_School.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\refint\5_Supplies_for_School.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\5_Supplies_for_School.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\5_Supplies_for_School\obj\Debug\net7.0\ref\5_Supplies_for_School.dll
