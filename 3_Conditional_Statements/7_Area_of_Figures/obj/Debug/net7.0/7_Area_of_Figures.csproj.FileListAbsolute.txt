@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\bin\Debug\net7.0\7_Area_of_Figures.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\bin\Debug\net7.0\7_Area_of_Figures.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\bin\Debug\net7.0\7_Area_of_Figures.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\bin\Debug\net7.0\7_Area_of_Figures.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\bin\Debug\net7.0\7_Area_of_Figures.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\refint\7_Area_of_Figures.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\7_Area_of_Figures.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\3_Conditional_Statements\7_Area_of_Figures\obj\Debug\net7.0\ref\7_Area_of_Figures.dll
