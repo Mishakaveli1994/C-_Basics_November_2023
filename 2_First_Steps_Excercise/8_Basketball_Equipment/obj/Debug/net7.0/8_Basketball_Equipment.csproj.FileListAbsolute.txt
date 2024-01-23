@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\bin\Debug\net7.0\8_Basketball_Equipment.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\bin\Debug\net7.0\8_Basketball_Equipment.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\bin\Debug\net7.0\8_Basketball_Equipment.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\bin\Debug\net7.0\8_Basketball_Equipment.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\bin\Debug\net7.0\8_Basketball_Equipment.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\refint\8_Basketball_Equipment.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\8_Basketball_Equipment.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\8_Basketball_Equipment\obj\Debug\net7.0\ref\8_Basketball_Equipment.dll

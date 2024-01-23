@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\bin\Debug\net7.0\9_Fish_Tank.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\bin\Debug\net7.0\9_Fish_Tank.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\bin\Debug\net7.0\9_Fish_Tank.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\bin\Debug\net7.0\9_Fish_Tank.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\bin\Debug\net7.0\9_Fish_Tank.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\refint\9_Fish_Tank.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\9_Fish_Tank.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\2_First_Steps_Excercise\9_Fish_Tank\obj\Debug\net7.0\ref\9_Fish_Tank.dll

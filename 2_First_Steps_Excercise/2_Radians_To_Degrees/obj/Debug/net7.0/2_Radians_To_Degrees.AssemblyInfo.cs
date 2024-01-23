@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("2_Radians_To_Degrees")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5451bc6f86449d5f451cbbdbdbde7d0ead8c909b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+669dbd98c6630d403067f2834517bcf25ae541e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("2_Radians_To_Degrees")]
 [assembly: System.Reflection.AssemblyTitleAttribute("2_Radians_To_Degrees")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

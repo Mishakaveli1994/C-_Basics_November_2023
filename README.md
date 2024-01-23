@@ -8,3 +8,9 @@
 `dotnet new console` - Create new console app
 
 `dotnet new console -f net6.0` - Create with a specific .NET SDK version
+
+`dotnet new console -f net7.0 --use-program-main -o .\9_Fish_Tank\` - for specific path
+
+`dotnet new sln` - create .sln file
+
+`dotnet sln add (ls -r **/*.csproj)` - automaticall add project to sln file (check directory !)
