@@ -14,3 +14,5 @@
 `dotnet new sln` - create .sln file
 
 `dotnet sln add (ls -r **/*.csproj)` - automaticall add project to sln file (check directory !)
+
+`..\create_directories.ps1 .` - from project folder with created folders to auto create .sln and add .csproj files

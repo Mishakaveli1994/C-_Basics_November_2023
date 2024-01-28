@@ -1,0 +1,15 @@
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\bin\Debug\net7.0\2_Bonus_Score.exe
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\bin\Debug\net7.0\2_Bonus_Score.deps.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\bin\Debug\net7.0\2_Bonus_Score.runtimeconfig.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\bin\Debug\net7.0\2_Bonus_Score.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\bin\Debug\net7.0\2_Bonus_Score.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.AssemblyInfoInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.AssemblyInfo.cs
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.csproj.CoreCompileInputs.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.sourcelink.json
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\refint\2_Bonus_Score.dll
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.pdb
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\2_Bonus_Score.genruntimeconfig.cache
+C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\2_Bonus_Score\obj\Debug\net7.0\ref\2_Bonus_Score.dll
