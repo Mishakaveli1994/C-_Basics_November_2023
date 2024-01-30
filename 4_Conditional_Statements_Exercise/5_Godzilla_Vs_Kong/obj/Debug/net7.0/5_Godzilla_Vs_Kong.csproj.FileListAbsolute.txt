@@ -1,0 +1,15 @@
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/bin/Debug/net7.0/5_Godzilla_Vs_Kong
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/bin/Debug/net7.0/5_Godzilla_Vs_Kong.deps.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/bin/Debug/net7.0/5_Godzilla_Vs_Kong.runtimeconfig.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/bin/Debug/net7.0/5_Godzilla_Vs_Kong.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/bin/Debug/net7.0/5_Godzilla_Vs_Kong.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.GeneratedMSBuildEditorConfig.editorconfig
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.AssemblyInfoInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.AssemblyInfo.cs
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.csproj.CoreCompileInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.sourcelink.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/refint/5_Godzilla_Vs_Kong.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/5_Godzilla_Vs_Kong.genruntimeconfig.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/Debug/net7.0/ref/5_Godzilla_Vs_Kong.dll

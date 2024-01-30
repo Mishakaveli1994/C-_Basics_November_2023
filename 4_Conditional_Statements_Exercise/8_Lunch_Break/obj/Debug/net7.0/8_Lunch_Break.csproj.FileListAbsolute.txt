@@ -1,0 +1,15 @@
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/bin/Debug/net7.0/8_Lunch_Break
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/bin/Debug/net7.0/8_Lunch_Break.deps.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/bin/Debug/net7.0/8_Lunch_Break.runtimeconfig.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/bin/Debug/net7.0/8_Lunch_Break.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/bin/Debug/net7.0/8_Lunch_Break.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.GeneratedMSBuildEditorConfig.editorconfig
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.AssemblyInfoInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.AssemblyInfo.cs
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.csproj.CoreCompileInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.sourcelink.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/refint/8_Lunch_Break.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/8_Lunch_Break.genruntimeconfig.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/8_Lunch_Break/obj/Debug/net7.0/ref/8_Lunch_Break.dll

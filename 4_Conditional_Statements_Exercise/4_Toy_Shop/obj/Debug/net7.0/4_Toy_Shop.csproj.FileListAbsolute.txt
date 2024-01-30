@@ -1,0 +1,15 @@
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/bin/Debug/net7.0/4_Toy_Shop
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/bin/Debug/net7.0/4_Toy_Shop.deps.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/bin/Debug/net7.0/4_Toy_Shop.runtimeconfig.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/bin/Debug/net7.0/4_Toy_Shop.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/bin/Debug/net7.0/4_Toy_Shop.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.GeneratedMSBuildEditorConfig.editorconfig
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.AssemblyInfoInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.AssemblyInfo.cs
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.csproj.CoreCompileInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.sourcelink.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/refint/4_Toy_Shop.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/4_Toy_Shop.genruntimeconfig.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/4_Toy_Shop/obj/Debug/net7.0/ref/4_Toy_Shop.dll

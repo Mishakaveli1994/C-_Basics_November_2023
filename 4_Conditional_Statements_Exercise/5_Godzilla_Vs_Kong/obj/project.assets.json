@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mishakaveli\\.nuget\\packages\\": {}
+    "/home/mishakaveli/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\4_Conditional_Statements_Exercise\\5_Godzilla_Vs_Kong\\5_Godzilla_Vs_Kong.csproj",
+      "projectUniqueName": "/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/5_Godzilla_Vs_Kong.csproj",
       "projectName": "5_Godzilla_Vs_Kong",
-      "projectPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\4_Conditional_Statements_Exercise\\5_Godzilla_Vs_Kong\\5_Godzilla_Vs_Kong.csproj",
-      "packagesPath": "C:\\Users\\Mishakaveli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\4_Conditional_Statements_Exercise\\5_Godzilla_Vs_Kong\\obj\\",
+      "projectPath": "/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/5_Godzilla_Vs_Kong.csproj",
+      "packagesPath": "/home/mishakaveli/.nuget/packages/",
+      "outputPath": "/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/5_Godzilla_Vs_Kong/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mishakaveli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/mishakaveli/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/mishakaveli/.dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

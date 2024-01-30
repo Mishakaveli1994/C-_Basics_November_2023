@@ -1,0 +1,15 @@
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/bin/Debug/net7.0/6_World_Swimming_Record
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/bin/Debug/net7.0/6_World_Swimming_Record.deps.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/bin/Debug/net7.0/6_World_Swimming_Record.runtimeconfig.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/bin/Debug/net7.0/6_World_Swimming_Record.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/bin/Debug/net7.0/6_World_Swimming_Record.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.GeneratedMSBuildEditorConfig.editorconfig
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.AssemblyInfoInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.AssemblyInfo.cs
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.csproj.CoreCompileInputs.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.sourcelink.json
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/refint/6_World_Swimming_Record.dll
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.pdb
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/6_World_Swimming_Record.genruntimeconfig.cache
+/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/Debug/net7.0/ref/6_World_Swimming_Record.dll

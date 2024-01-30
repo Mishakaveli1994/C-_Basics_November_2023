@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = _7_Shopping
-build_property.ProjectDir = C:\Users\Mishakaveli\Documents\Softuni_Javascript\C#_Basics_November_2023\4_Conditional_Statements_Exercise\7_Shopping\
+build_property.ProjectDir = /home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/7_Shopping/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Mishakaveli\\.nuget\\packages\\": {}
+    "/home/mishakaveli/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\4_Conditional_Statements_Exercise\\6_World_Swimming_Record\\6_World_Swimming_Record.csproj",
+      "projectUniqueName": "/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/6_World_Swimming_Record.csproj",
       "projectName": "6_World_Swimming_Record",
-      "projectPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\4_Conditional_Statements_Exercise\\6_World_Swimming_Record\\6_World_Swimming_Record.csproj",
-      "packagesPath": "C:\\Users\\Mishakaveli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mishakaveli\\Documents\\Softuni_Javascript\\C#_Basics_November_2023\\4_Conditional_Statements_Exercise\\6_World_Swimming_Record\\obj\\",
+      "projectPath": "/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/6_World_Swimming_Record.csproj",
+      "packagesPath": "/home/mishakaveli/.nuget/packages/",
+      "outputPath": "/home/mishakaveli/Documents/VSCode/C#_Basic_Nov_2023/C-_Basics_November_2023/4_Conditional_Statements_Exercise/6_World_Swimming_Record/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Mishakaveli\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/home/mishakaveli/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/home/mishakaveli/.dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }
