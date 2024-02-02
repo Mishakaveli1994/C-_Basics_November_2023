@@ -1,9 +1,35 @@
-﻿namespace _7_Working_Hours;
+﻿using System.ComponentModel;
+
+namespace _7_Working_Hours;
 
 class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        int hour = int.Parse(Console.ReadLine());
+        string day = Console.ReadLine();
+
+        switch (day)
+        {
+            case "Monday":
+            case "Tuesday":
+            case "Wednesday":
+            case "Thursday":
+            case "Friday":
+            case "Saturday":
+                if (hour >= 10 && hour <= 18)
+                {
+                    Console.WriteLine("open");
+                    break;
+                }
+                else
+                {
+                    Console.WriteLine("closed");
+                    break;
+                }
+            default:
+                Console.WriteLine("closed");
+                break;
+        }
     }
 }
